@@ -1,0 +1,10 @@
+{
+	"quip": {
+		"access_token": "really====longg===token"
+	},
+
+	"hackpad": {
+		"client_id": "hackpad--client-id",
+		"secret": "hackpad---secrettt----longness-string"
+	}
+}
