@@ -1,6 +1,8 @@
 # quip-rip
 
-Download all Folders and Documents from Quip and Convert Docs to Markdown
+Downloads all of one's Quip folders and documents.
+
+...because some of us have 366 of them.
 
 ## Usage
 
@@ -8,9 +10,9 @@ Download all Folders and Documents from Quip and Convert Docs to Markdown
 
 2. Clone this repository.
 
-Generate a [Quip Personal Token](https://quip.com/api/personal-token) and add it in config.json
+3. Generate a [Quip Personal Token](https://quip.com/api/personal-token) and add it in config.json
 
-Download Quip Docs (as HTML)
+4. Download All
 
 ```bash
  $ node quip.js     # go make a coffee
@@ -19,10 +21,10 @@ Download Quip Docs (as HTML)
  # but it will get them at the end
 ```
 
-Run Html to Markdown Converter
+5. Run Markdown Converter
 
 ```bash
  $ node_modules/html-md/bin/htmlmd -o quip-md/ quip/*
 ```
 
-Freedom!
+**Freedom!**
