@@ -4,7 +4,7 @@ Download all Folders and Documents from Quip and Convert Docs to Markdown
 
 ## Usage
 
-1. Install io.js
+1. Install [io.js](https://iojs.org/en/index.html)
 
 2. Clone this repository.
 
