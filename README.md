@@ -11,7 +11,7 @@ Install [io.js](https://iojs.org/en/index.html)
 
 Clone this repository.
 
-Generate a [Quip Personal Token](https://quip.com/api/personal-token) and add it in config.json
+Generate a [Quip Personal Token](https://quip.com/api/personal-token) and add it in keys.json
 
 Download!
 
