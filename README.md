@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/metadevfoundation/quip-rip.png?label=ready&title=Ready)](https://waffle.io/metadevfoundation/quip-rip)
 # quip-rip
 
 Downloads all of one's Quip folders and documents.
