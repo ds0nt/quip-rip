@@ -1,0 +1,11 @@
+{
+  "name": "quip-rip",
+  "version": "0.1.0",
+  "main": "./index.js",
+  "private": true,
+  "dependencies": {
+    "js-csp": "^0.4.1",
+    "lodash": "^3.9.3",
+    "quip": "^0.1.2"
+  }
+}
